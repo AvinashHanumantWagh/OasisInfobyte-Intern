@@ -1,7 +1,7 @@
 from bmi_lib import bmi_calc, bmi_catogorize, solti_input
 
 def ram():
-    print("Welcome to the Swapneel BMI Calculator!")
+    print("Welcome to the Avinash BMI Calculator!")
 
     weight, height = solti_input()
 
