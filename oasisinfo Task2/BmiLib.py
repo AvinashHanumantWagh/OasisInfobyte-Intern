@@ -1,3 +1,4 @@
+# Author Avinash Wagh
 def bmi_calc(weight, height):
     return weight / (height ** 2)
 
