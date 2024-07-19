@@ -1,4 +1,4 @@
-# Swapneel BMI Calculator
+#Avinash BMI Calculator
 
 Welcome to the Avinash BMI Calculator! This Python program helps users calculate their Body Mass Index (BMI) and categorizes it into different weight categories.
 
