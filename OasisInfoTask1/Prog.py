@@ -26,7 +26,7 @@ def greeting():
     else:
         speak("Good Night!")
 
-    speak("Namaste iam Sudha. iam your Nepali Voice assitance how may i help you")
+    speak("Namaste iam  Avinash. iam your Voice assitance how may i help you")
 #define command to assitance 
 def command():
 
